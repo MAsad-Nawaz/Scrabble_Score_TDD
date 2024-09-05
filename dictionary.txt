@@ -1,0 +1,8 @@
+apple
+banana
+cherry
+date
+grape
+kiwi
+lemon
+cabbage
